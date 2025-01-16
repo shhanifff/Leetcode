@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shhanifff/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
