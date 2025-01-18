@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shhanifff/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shhanifff/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shhanifff/Leetcode/tree/master/0189-rotate-array) |
+| [2383-add-two-integers](https://github.com/shhanifff/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/shhanifff/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shhanifff/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/shhanifff/Leetcode/tree/master/2556-convert-the-temperature) |
