@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shhanifff/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shhanifff/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/shhanifff/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shhanifff/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shhanifff/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/shhanifff/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shhanifff/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
@@ -159,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
