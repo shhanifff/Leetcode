@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shhanifff/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shhanifff/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shhanifff/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shhanifff/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shhanifff/Leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/shhanifff/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shhanifff/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shhanifff/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
