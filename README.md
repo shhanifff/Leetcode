@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shhanifff/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shhanifff/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shhanifff/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shhanifff/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shhanifff/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shhanifff/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/shhanifff/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/shhanifff/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shhanifff/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shhanifff/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shhanifff/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shhanifff/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Math
