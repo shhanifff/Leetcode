@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shhanifff/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shhanifff/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shhanifff/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shhanifff/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shhanifff/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/shhanifff/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shhanifff/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shhanifff/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shhanifff/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shhanifff/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Math
