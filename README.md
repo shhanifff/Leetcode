@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/shhanifff/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/shhanifff/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shhanifff/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shhanifff/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shhanifff/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shhanifff/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
+| [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shhanifff/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shhanifff/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/shhanifff/Leetcode/tree/master/0742-to-lower-case) |
+| [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/shhanifff/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shhanifff/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
