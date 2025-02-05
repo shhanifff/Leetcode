@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/shhanifff/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shhanifff/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shhanifff/Leetcode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
 |  |
 | ------- |
