@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shhanifff/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shhanifff/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shhanifff/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shhanifff/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shhanifff/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shhanifff/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shhanifff/Leetcode/tree/master/0268-missing-number) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shhanifff/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shhanifff/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
