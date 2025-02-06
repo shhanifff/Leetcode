@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3379-score-of-a-string](https://github.com/shhanifff/Leetcode/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
