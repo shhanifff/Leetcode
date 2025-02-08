@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/shhanifff/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/shhanifff/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shhanifff/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/shhanifff/Leetcode/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/shhanifff/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
