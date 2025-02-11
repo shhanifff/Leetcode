@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shhanifff/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shhanifff/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/shhanifff/Leetcode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/shhanifff/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shhanifff/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shhanifff/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shhanifff/Leetcode/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shhanifff/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/shhanifff/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shhanifff/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shhanifff/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shhanifff/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0861-flipping-an-image](https://github.com/shhanifff/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shhanifff/Leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shhanifff/Leetcode/tree/master/1791-richest-customer-wealth) |
