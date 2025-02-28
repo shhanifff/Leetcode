@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shhanifff/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/shhanifff/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/shhanifff/Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/shhanifff/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shhanifff/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shhanifff/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shhanifff/Leetcode/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shhanifff/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shhanifff/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shhanifff/Leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/shhanifff/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shhanifff/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shhanifff/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shhanifff/Leetcode/tree/master/0217-contains-duplicate) |
@@ -251,9 +253,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shhanifff/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/shhanifff/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shhanifff/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/shhanifff/Leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
