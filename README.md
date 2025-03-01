@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/shhanifff/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shhanifff/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/shhanifff/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/shhanifff/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/shhanifff/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/shhanifff/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/shhanifff/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/shhanifff/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
