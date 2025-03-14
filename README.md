@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shhanifff/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shhanifff/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/shhanifff/Leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/shhanifff/Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/shhanifff/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/shhanifff/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shhanifff/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/shhanifff/Leetcode/tree/master/0812-rotate-string) |
 ## Recursion
 |  |
 | ------- |
