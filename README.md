@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shhanifff/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shhanifff/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shhanifff/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/shhanifff/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/shhanifff/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shhanifff/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shhanifff/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shhanifff/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/shhanifff/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/shhanifff/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/shhanifff/Leetcode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/shhanifff/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/shhanifff/Leetcode/tree/master/1044-find-common-characters) |
