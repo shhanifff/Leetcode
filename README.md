@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shhanifff/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2881-split-strings-by-separator](https://github.com/shhanifff/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shhanifff/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shhanifff/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/shhanifff/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shhanifff/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shhanifff/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shhanifff/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/shhanifff/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/shhanifff/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shhanifff/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shhanifff/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
