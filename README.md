@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shhanifff/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shhanifff/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shhanifff/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shhanifff/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/shhanifff/Leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shhanifff/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shhanifff/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/shhanifff/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/shhanifff/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shhanifff/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shhanifff/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/shhanifff/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shhanifff/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shhanifff/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shhanifff/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3811-reverse-degree-of-a-string](https://github.com/shhanifff/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
